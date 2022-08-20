@@ -465,7 +465,7 @@ $parameters = array(
 	'batch_sleep_time' => 1,
 	'batch_campaign_sleep_time' => false,
 	'transliterate_page_title' => 0,
-	'cors_restrict_domains' => 1,
+	'cors_restrict_domains' => 0,
 	'cors_valid_domains' => array(
 
 	),
